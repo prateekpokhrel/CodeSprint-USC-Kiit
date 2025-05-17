@@ -1,3 +1,4 @@
+// Day2_2: Critical Jam Hour Detection.
 import java.util.Scanner;
 public class CriticalJamHours
 {
