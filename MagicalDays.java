@@ -1,3 +1,4 @@
+// Day2_1: Magical Days in the Coding Marathone.
 import java.util.Scanner;
 public class MagicalDays
 {
