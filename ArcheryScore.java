@@ -1,3 +1,4 @@
+// Day 1_1: Can Shivam Buy IceCream.
 import java.util.Scanner;
 public class ArcheryScore{
   public static void main(String[] args){
