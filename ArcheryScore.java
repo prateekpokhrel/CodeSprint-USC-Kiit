@@ -1,4 +1,4 @@
-// Day 1_1: Can Shivam Buy IceCream.
+// Day 1_1: Vir's Archery Practice.
 import java.util.Scanner;
 public class ArcheryScore{
   public static void main(String[] args){
