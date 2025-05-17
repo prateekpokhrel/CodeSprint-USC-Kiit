@@ -1,3 +1,4 @@
+// Day 1_2: Can Shivam Buy Icecream.
 public class IceCreamSelector {
 
     public static boolean canBuyIceCream(int budget, int[] iceCreamPrices) {
