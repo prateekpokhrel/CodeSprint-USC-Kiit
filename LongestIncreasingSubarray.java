@@ -1,3 +1,4 @@
+//Day3_2: Find Longest Strictly Increasing Temperature Subarray.
 import java.util.Scanner;
 public class LongestIncreasingSubarray
 {
